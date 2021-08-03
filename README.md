@@ -11,3 +11,5 @@ Courses
 Articles
 -------
 [StopAndDecrypt Medium Articles](https://hackernoon.com/u/stopanddecrypt)
+
+[Ethereum archive nodes now take up 4 terabytes of space](https://decrypt.co/24779/ethereum-archive-nodes-now-take-up-4-terabytes-of-space)
