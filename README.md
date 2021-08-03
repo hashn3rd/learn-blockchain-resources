@@ -15,3 +15,7 @@ Articles
 [Ethereum archive nodes now take up 4 terabytes of space](https://decrypt.co/24779/ethereum-archive-nodes-now-take-up-4-terabytes-of-space)
 
 [Nervos thinks it’s found a solution to Ethereum's “State Bloat”](https://decrypt.co/9702/nervos-thinks-its-found-a-solution-to-state-bloat)
+
+Wikis
+-------
+[Ethereum Sharding FAQ](https://eth.wiki/sharding/Sharding-FAQs)
