@@ -6,6 +6,8 @@ Courses
 
 [Introduction to Cryptography by Christof Paar](https://www.youtube.com/channel/UC1usFRN4LCMcfIV7UjHNuQg/videos)
 
+[Cryptoeconomics Study](https://www.youtube.com/channel/UCGagQMCWglF-oGt8HKZfHNg/videos)
+
 Articles
 -------
 [StopAndDecrypt Medium Articles](https://hackernoon.com/u/stopanddecrypt)
