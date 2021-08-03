@@ -4,6 +4,8 @@ Courses
 
 [Blockchain and Money](https://ocw.mit.edu/courses/sloan-school-of-management/15-s12-blockchain-and-money-fall-2018/video-lectures/)
 
+[Introduction to Cryptography by Christof Paar](https://www.youtube.com/channel/UC1usFRN4LCMcfIV7UjHNuQg/videos)
+
 Articles
 -------
 [StopAndDecrypt Medium Articles](https://hackernoon.com/u/stopanddecrypt)
