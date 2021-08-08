@@ -19,3 +19,11 @@ Articles
 Wikis
 -------
 [Ethereum Sharding FAQ](https://eth.wiki/sharding/Sharding-FAQs)
+
+Videos
+-------
+[On the Subject of Non-Equivocation](https://www.youtube.com/watch?v=Ljayjau9-E0)
+
+[Differential Privacy in Distributed Environments: An Overview and Open Questions](https://www.youtube.com/watch?v=A8GhByIEwrM)
+
+[Catena: Efficient Non-equivocation via Bitcoin](https://www.youtube.com/watch?v=Xz12PbLSeVc)
