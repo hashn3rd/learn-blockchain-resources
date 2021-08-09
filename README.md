@@ -8,6 +8,8 @@ Courses
 
 [Cryptoeconomics Study](https://www.youtube.com/channel/UCGagQMCWglF-oGt8HKZfHNg/videos)
 
+[Bitcoin and Cryptocurrency Technologies Online Course](https://www.youtube.com/channel/UCNcSSleedtfyDuhBvOQzFzQ/videos)
+
 Articles
 -------
 [StopAndDecrypt Medium Articles](https://hackernoon.com/u/stopanddecrypt)
