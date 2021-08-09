@@ -10,6 +10,8 @@ Courses
 
 [Bitcoin and Cryptocurrency Technologies Online Course](https://www.youtube.com/channel/UCNcSSleedtfyDuhBvOQzFzQ/videos)
 
+[Blockchain at Berkeley](https://www.youtube.com/c/BlockchainatBerkeley/videos)
+
 Articles
 -------
 [StopAndDecrypt Medium Articles](https://hackernoon.com/u/stopanddecrypt)
