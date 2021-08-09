@@ -14,6 +14,8 @@ Courses
 
 [The Complete Beginner's Crypto Crash Course](https://www.youtube.com/playlist?list=PLU52pNodXIGdM6XDgHVG7DsPytlsrR_6b)
 
+[Blockchain Full Course - 4 Hours](https://www.youtube.com/watch?v=QCvL-DWcojc)
+
 Articles
 -------
 [StopAndDecrypt Medium Articles](https://hackernoon.com/u/stopanddecrypt)
