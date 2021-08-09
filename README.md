@@ -12,6 +12,8 @@ Courses
 
 [Blockchain at Berkeley](https://www.youtube.com/c/BlockchainatBerkeley/videos)
 
+[The Complete Beginner's Crypto Crash Course](https://www.youtube.com/playlist?list=PLU52pNodXIGdM6XDgHVG7DsPytlsrR_6b)
+
 Articles
 -------
 [StopAndDecrypt Medium Articles](https://hackernoon.com/u/stopanddecrypt)
