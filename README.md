@@ -20,6 +20,8 @@ Channels
 -------
 [Taariq Lewis](https://www.youtube.com/c/TaariqLewis/videos)
 
+[Curious Inventory](https://www.youtube.com/c/CuriousInventor/videos)
+
 Articles
 -------
 [StopAndDecrypt Medium Articles](https://hackernoon.com/u/stopanddecrypt)
