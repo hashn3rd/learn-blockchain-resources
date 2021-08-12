@@ -43,3 +43,7 @@ Videos
 [Differential Privacy in Distributed Environments: An Overview and Open Questions](https://www.youtube.com/watch?v=A8GhByIEwrM)
 
 [Catena: Efficient Non-equivocation via Bitcoin](https://www.youtube.com/watch?v=Xz12PbLSeVc)
+
+[How Segwit Works: Transaction Malleability Explained](https://www.youtube.com/watch?v=zd6Xio3Pc1Y)
+
+[Segwit (Bitcoin): Hashes and Merkle Trees explained](https://www.youtube.com/watch?v=3DhSYXjLEWE)
