@@ -24,6 +24,8 @@ Channels
 
 [Aantonop](https://www.youtube.com/c/aantonop/videos)
 
+[Thinklair](https://www.youtube.com/c/Thinklair/videos)
+
 Articles
 -------
 [StopAndDecrypt Medium Articles](https://hackernoon.com/u/stopanddecrypt)
