@@ -47,3 +47,5 @@ Videos
 [How Segwit Works: Transaction Malleability Explained](https://www.youtube.com/watch?v=zd6Xio3Pc1Y)
 
 [Segwit (Bitcoin): Hashes and Merkle Trees explained](https://www.youtube.com/watch?v=3DhSYXjLEWE)
+
+[Bitcoin Transaction Malleability Theory in Practice](https://www.youtube.com/watch?v=bmxu3r_CUKE)
