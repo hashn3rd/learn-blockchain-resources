@@ -16,6 +16,10 @@ Courses
 
 [Blockchain Full Course - 4 Hours](https://www.youtube.com/watch?v=QCvL-DWcojc)
 
+Channels
+-------
+[Taariq Lewis](https://www.youtube.com/c/TaariqLewis/videos)
+
 Articles
 -------
 [StopAndDecrypt Medium Articles](https://hackernoon.com/u/stopanddecrypt)
