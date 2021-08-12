@@ -22,6 +22,8 @@ Channels
 
 [Curious Inventory](https://www.youtube.com/c/CuriousInventor/videos)
 
+[Aantonop](https://www.youtube.com/c/aantonop/videos)
+
 Articles
 -------
 [StopAndDecrypt Medium Articles](https://hackernoon.com/u/stopanddecrypt)
