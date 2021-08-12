@@ -28,6 +28,10 @@ Channels
 
 [Joshua Henslee](https://www.youtube.com/user/jhenslee11/videos)
 
+[Binance Academy](https://www.youtube.com/c/BinanceAcademy/videos)
+
+[MetaMask](https://www.youtube.com/channel/UCcizsiFcuxMrSWcPAuSNbuA/videos)
+
 Articles
 -------
 [StopAndDecrypt Medium Articles](https://hackernoon.com/u/stopanddecrypt)
@@ -53,3 +57,5 @@ Videos
 [Segwit (Bitcoin): Hashes and Merkle Trees explained](https://www.youtube.com/watch?v=3DhSYXjLEWE)
 
 [Bitcoin Transaction Malleability Theory in Practice](https://www.youtube.com/watch?v=bmxu3r_CUKE)
+
+[Bitcoin Transaction Malleability: An Insight by Daniel Chechik](https://www.youtube.com/watch?v=uaB45x_6Ba0)
