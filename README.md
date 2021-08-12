@@ -26,6 +26,8 @@ Channels
 
 [Thinklair](https://www.youtube.com/c/Thinklair/videos)
 
+[Joshua Henslee](https://www.youtube.com/user/jhenslee11/videos)
+
 Articles
 -------
 [StopAndDecrypt Medium Articles](https://hackernoon.com/u/stopanddecrypt)
