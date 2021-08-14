@@ -59,3 +59,7 @@ Videos
 [Bitcoin Transaction Malleability Theory in Practice](https://www.youtube.com/watch?v=bmxu3r_CUKE)
 
 [Bitcoin Transaction Malleability: An Insight by Daniel Chechik](https://www.youtube.com/watch?v=uaB45x_6Ba0)
+
+Papers
+------
+[Discreet Log Contracts](https://adiabat.github.io/dlc.pdf)
