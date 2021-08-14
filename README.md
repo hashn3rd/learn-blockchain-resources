@@ -32,6 +32,12 @@ Channels
 
 [MetaMask](https://www.youtube.com/channel/UCcizsiFcuxMrSWcPAuSNbuA/videos)
 
+[ChainCode](https://www.youtube.com/channel/UC9OcX1kIjsowRRZzl8tD27w/videos)
+
+[Cyber Initiative](https://www.youtube.com/channel/UClTL-ZUsrWuNMP4zy-PWByw/videos)
+
+[Crypto Shorts](https://www.youtube.com/channel/UCk0r9S76wngNPJb_GlhJYdw)
+
 Articles
 -------
 [StopAndDecrypt Medium Articles](https://hackernoon.com/u/stopanddecrypt)
