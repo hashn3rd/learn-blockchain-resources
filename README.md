@@ -76,6 +76,8 @@ Channels
 
 [MIT Digital Currency Initiative](https://www.youtube.com/channel/UCJkYmuzqAnIKn3NPg5lc0Wg)
 
+[learnmeabitcoin](https://www.youtube.com/c/learnmeabitcoin/videos)
+
 Articles
 -------
 [StopAndDecrypt Medium Articles](https://hackernoon.com/u/stopanddecrypt)
