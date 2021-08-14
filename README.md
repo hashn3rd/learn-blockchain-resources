@@ -38,6 +38,16 @@ Channels
 
 [Crypto Shorts](https://www.youtube.com/channel/UCk0r9S76wngNPJb_GlhJYdw)
 
+[Off Chain With Jimmy Song](https://www.youtube.com/c/OffChainwithJimmySong/videos)
+
+[TheIACR](https://www.youtube.com/user/TheIACR/videos)
+
+[ZKProof Standards](https://www.youtube.com/channel/UC79GUI9SBNnfmJOQyHDrrPQ/videos)
+
+[René Pickhardt](https://www.youtube.com/c/RenePickhardt/videos)
+
+[Chirag Bhalodia](https://www.youtube.com/c/ChiragBhalodia/videos)
+
 Articles
 -------
 [StopAndDecrypt Medium Articles](https://hackernoon.com/u/stopanddecrypt)
