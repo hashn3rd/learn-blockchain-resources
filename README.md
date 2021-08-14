@@ -48,6 +48,34 @@ Channels
 
 [Chirag Bhalodia](https://www.youtube.com/c/ChiragBhalodia/videos)
 
+[SF Bitcoin Developers](https://www.youtube.com/channel/UCREs0ConyCR2sEFf-DrLRMw)
+
+[World Crypto Network](https://www.youtube.com/user/WorldCryptoNetwork)
+
+[London Bitcoin Devs](https://www.youtube.com/channel/UCAcGdRw9Q-Ga_0Eap9_D_NQ)
+
+[Bitcoin Club Malta](https://www.youtube.com/channel/UCdr0aOeasnd2jwpxv3Gqf-w)
+
+[D G](https://www.youtube.com/channel/UCvGwAqJQ9YKTtak9UznfTAw/videos)
+
+[Edge](https://www.youtube.com/channel/UCJaTFo0_z9lEG_v7L_LT2pw)
+
+[Chronos Crypto](https://www.youtube.com/user/ChronosCrypto)
+
+[Josiah Spackman - DigiByte](https://www.youtube.com/channel/UC0LyKbC_naDVJJ-FtSVo5eA)
+
+[Bitcoin Magazine](https://www.youtube.com/channel/UCtOV5M-T3GcsJAq8QKaf0lg)
+
+[MIT Bitcoin Club](https://www.youtube.com/user/MITBitcoinClub)
+
+[Bitcoin Optech](https://www.youtube.com/channel/UCUyjLD_zRr4F8nKaCtZHXUg)
+
+[Fidelity Center for Applied Technology](https://www.youtube.com/user/fidelitylabs)
+
+[Blockstream](https://www.youtube.com/channel/UCZNt3fZazX9cwWcC9vjDJ4Q)
+
+[MIT Digital Currency Initiative](https://www.youtube.com/channel/UCJkYmuzqAnIKn3NPg5lc0Wg)
+
 Articles
 -------
 [StopAndDecrypt Medium Articles](https://hackernoon.com/u/stopanddecrypt)
