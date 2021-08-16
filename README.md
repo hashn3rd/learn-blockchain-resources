@@ -90,6 +90,8 @@ Articles
 
 [Braiins](https://braiins.com/blog)
 
+[Coinmetrics Substack](https://coinmetrics.substack.com/)
+
 Wikis
 -------
 [Ethereum Sharding FAQ](https://eth.wiki/sharding/Sharding-FAQs)
