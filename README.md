@@ -112,6 +112,8 @@ Papers
 ------
 [Discreet Log Contracts](https://adiabat.github.io/dlc.pdf)
 
+[3RD GLOBAL CRYPTOASSET BENCHMARKING STUDY](https://www.jbs.cam.ac.uk/wp-content/uploads/2021/01/2021-ccaf-3rd-global-cryptoasset-benchmarking-study.pdf)
+
 Websites
 ------
 [Digital Currency Initiative](https://dci.mit.edu/)
