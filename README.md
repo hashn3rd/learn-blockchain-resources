@@ -86,6 +86,8 @@ Articles
 
 [Nervos thinks it’s found a solution to Ethereum's “State Bloat”](https://decrypt.co/9702/nervos-thinks-its-found-a-solution-to-state-bloat)
 
+[SGBarbour Medium Articles](https://sgbarbour.medium.com/)
+
 Wikis
 -------
 [Ethereum Sharding FAQ](https://eth.wiki/sharding/Sharding-FAQs)
