@@ -122,6 +122,8 @@ Videos
 
 [Bitcoin Transaction Malleability: An Insight by Daniel Chechik](https://www.youtube.com/watch?v=uaB45x_6Ba0)
 
+[Bitcoin mining technical details](https://www.youtube.com/watch?v=-s0F5f7Z2zM)
+
 Papers
 ------
 [Discreet Log Contracts](https://adiabat.github.io/dlc.pdf)
