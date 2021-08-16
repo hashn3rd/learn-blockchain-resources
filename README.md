@@ -86,6 +86,8 @@ Channels
 
 [Decypher Media](https://www.youtube.com/c/DecypherMedia/videos)
 
+[Hack VC](https://www.youtube.com/channel/UCrKXfP5OnSUBth2JLjCbkMQ/videos)
+
 Articles
 -------
 [StopAndDecrypt Medium Articles](https://hackernoon.com/u/stopanddecrypt)
