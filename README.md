@@ -100,6 +100,8 @@ Articles
 
 [Coinmetrics Substack](https://coinmetrics.substack.com/)
 
+[Parity Blog](https://www.parity.io/blog)
+
 Wikis
 -------
 [Ethereum Sharding FAQ](https://eth.wiki/sharding/Sharding-FAQs)
