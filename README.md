@@ -82,6 +82,8 @@ Channels
 
 [MinistryofNodes](https://www.youtube.com/c/MinistryofNodes/videos)
 
+[Edmonton Bitcoin Association](https://www.youtube.com/channel/UCi7nCJZjbjWDvQ00klJbTbQ/videos)
+
 Articles
 -------
 [StopAndDecrypt Medium Articles](https://hackernoon.com/u/stopanddecrypt)
