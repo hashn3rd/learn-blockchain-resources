@@ -84,6 +84,8 @@ Channels
 
 [Edmonton Bitcoin Association](https://www.youtube.com/channel/UCi7nCJZjbjWDvQ00klJbTbQ/videos)
 
+[Decypher Media](https://www.youtube.com/c/DecypherMedia/videos)
+
 Articles
 -------
 [StopAndDecrypt Medium Articles](https://hackernoon.com/u/stopanddecrypt)
