@@ -88,6 +88,8 @@ Articles
 
 [SGBarbour Medium Articles](https://sgbarbour.medium.com/)
 
+[Braiins](https://braiins.com/blog)
+
 Wikis
 -------
 [Ethereum Sharding FAQ](https://eth.wiki/sharding/Sharding-FAQs)
