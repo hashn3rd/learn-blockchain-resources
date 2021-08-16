@@ -80,6 +80,8 @@ Channels
 
 [m1xolyd1an_bitcoin_tutorials](https://www.youtube.com/c/m1xolyd1an_bitcoin_tutorials/videos)
 
+[MinistryofNodes](https://www.youtube.com/c/MinistryofNodes/videos)
+
 Articles
 -------
 [StopAndDecrypt Medium Articles](https://hackernoon.com/u/stopanddecrypt)
