@@ -121,3 +121,7 @@ Papers
 Websites
 ------
 [Digital Currency Initiative](https://dci.mit.edu/)
+
+Technologies
+------
+[Stratum V2](https://braiins.com/stratum-v2)
