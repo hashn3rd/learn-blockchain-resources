@@ -88,6 +88,8 @@ Channels
 
 [Hack VC](https://www.youtube.com/channel/UCrKXfP5OnSUBth2JLjCbkMQ/videos)
 
+[Dystopia Labs](https://www.youtube.com/channel/UCocMXOTuCPm6THYRNbe2DsA/videos)
+
 Articles
 -------
 [StopAndDecrypt Medium Articles](https://hackernoon.com/u/stopanddecrypt)
