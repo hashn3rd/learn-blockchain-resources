@@ -12,6 +12,8 @@ Courses
 
 [Blockchain at Berkeley](https://www.youtube.com/c/BlockchainatBerkeley/videos)
 
+[Blockchain at BerkeleyX](https://www.youtube.com/c/BlockchainatBerkeleyX/videos)
+
 [The Complete Beginner's Crypto Crash Course](https://www.youtube.com/playlist?list=PLU52pNodXIGdM6XDgHVG7DsPytlsrR_6b)
 
 [Blockchain Full Course - 4 Hours](https://www.youtube.com/watch?v=QCvL-DWcojc)
@@ -89,6 +91,10 @@ Channels
 [Hack VC](https://www.youtube.com/channel/UCrKXfP5OnSUBth2JLjCbkMQ/videos)
 
 [Dystopia Labs](https://www.youtube.com/channel/UCocMXOTuCPm6THYRNbe2DsA/videos)
+
+[Blockgeeks](https://www.youtube.com/c/BlockGeeks/videos)
+
+[EatTheBlocks](https://www.youtube.com/c/EatTheBlocks/videos
 
 Articles
 -------
