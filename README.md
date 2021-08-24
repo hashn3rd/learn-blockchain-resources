@@ -140,6 +140,8 @@ Papers
 
 [3RD GLOBAL CRYPTOASSET BENCHMARKING STUDY](https://www.jbs.cam.ac.uk/wp-content/uploads/2021/01/2021-ccaf-3rd-global-cryptoasset-benchmarking-study.pdf)
 
+[Permacoin: Repurposing Bitcoin Work for Data Preservation](https://www.microsoft.com/en-us/research/publication/permacoin-repurposing-bitcoin-work-for-data-preservation/)
+
 Websites
 ------
 [Digital Currency Initiative](https://dci.mit.edu/)
