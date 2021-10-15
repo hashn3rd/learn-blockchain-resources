@@ -20,6 +20,8 @@ Courses
 
 Channels
 -------
+[Making the Internet More Secure with Handshake](https://www.youtube.com/c/SanFranciscoBlockchainWeek/videos)
+
 [Taariq Lewis](https://www.youtube.com/c/TaariqLewis/videos)
 
 [Curious Inventory](https://www.youtube.com/c/CuriousInventor/videos)
