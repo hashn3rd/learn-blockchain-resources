@@ -20,7 +20,9 @@ Courses
 
 Channels
 -------
-[Making the Internet More Secure with Handshake](https://www.youtube.com/c/SanFranciscoBlockchainWeek/videos)
+[Vin Armani](https://www.youtube.com/user/VinArmani/videos)
+
+[SanFranciscoBlockchainWeek](https://www.youtube.com/c/SanFranciscoBlockchainWeek/videos)
 
 [Taariq Lewis](https://www.youtube.com/c/TaariqLewis/videos)
 
